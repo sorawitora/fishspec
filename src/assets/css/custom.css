@@ -1,0 +1,105 @@
+.round{
+    border-radius:50px!important;
+}
+.big{
+    width:250px;
+}
+
+.full-width{
+    width:100%!important;
+}
+
+.shadow-bl{
+    -webkit-box-shadow: 0px 0px 40px 0px rgba(113,186,250,0.53);
+    -moz-box-shadow: 0px 0px 40px 0px rgba(113,186,250,0.53);
+    box-shadow: 0px 0px 40px 0px rgba(113,186,250,0.53);
+}
+.shadow-xs{
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(184,184,184,1);
+-moz-box-shadow: 0px 0px 2px 0px rgba(184,184,184,1);
+box-shadow: 0px 0px 2px 0px rgba(184,184,184,1);
+}
+
+.round-full{
+    border-radius:50%!important;
+}
+.no-border{
+    border:none!important;
+}
+
+/*
+@font-face {
+    font-family: 'Questrial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Questrial'), local('Questrial-Regular'), url(https://fonts.gstatic.com/s/questrial/v7/QdVUSTchPBm7nuUeVf70viFl.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  html,body,div,li,ul,a,p,h1,h2,h3,h4,h5{
+    font-family: 'Questrial', sans-serif;
+  }
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Prompt:300');
+  html,body,div,li,ul,a,p,h1,h2,h3,h4,h5,label{
+   font-family: 'Prompt', sans-serif!important; 
+  }
+
+  .f{
+    font-family: 'Prompt', sans-serif; 
+  }
+  @media only screen and (max-width: 600px) {
+    .change-right {
+        
+    }
+    .mrl-c{
+        margin-left:0px!important;
+    }
+
+
+}
+
+    @media only screen and (min-width: 600px) {
+        .change-right { 
+            float:right;
+        }
+        .mrl-c{
+            margin-left:40px!important;
+        }
+    }
+
+    .roundw{
+        border-radius: 20px!important;
+    }
+
+   .roundx{
+    border-top-left-radius: 20px!important;
+    border-top-right-radius: 20px!important;
+   }
+
+  
+
+  .date-time-picker input, .date-time-picker label, .date-time-picker p, .date-time-picker span {
+    font-family: 'Prompt', sans-serif; 
+  }
+
+  .fl-r{
+      float:right!important;
+     
+  }
+
+  
+
+  .fl-l{
+    float:left!important;
+}
+
+.fl-t{
+    float:top!important;
+}
+ 
+
+ .error--text{
+     color:black!important;
+ }

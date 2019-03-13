@@ -1,0 +1,197 @@
+ .wh {
+     color: white !important;
+ }
+
+ .bl {
+     color: black !important;
+ }
+
+
+ .lgray {
+     border: none !important;
+     background: rgb(209, 209, 209) !important;
+     background: -moz-linear-gradient(left, rgb(153, 153, 153) 0%, rgb(231, 231, 231) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(231, 231, 231)), color-stop(100%, rgb(189, 189, 189))) !important;
+     background: -webkit-linear-gradient(left, rgba(153, 153, 153) 0%, rgba(231, 231, 231) 100%) !important;
+     background: -o-linear-gradient(left, rgba(153, 153, 153) 0%, rgba(231, 231, 231) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(153, 153, 153) 0%, rgba(231, 231, 231) 100%) !important;
+     background: linear-gradient(to right, rgba(153, 153, 153) 0%, rgba(231, 231, 231) 100%) !important;
+ }
+
+
+
+
+ .lnot {
+     border: none !important;
+     background: rgba(247, 52, 140, 1) !important;
+     background: -moz-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(247, 52, 140, 1)), color-stop(100%, rgba(230, 68, 53, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7348c', endColorstr='#e64435', GradientType=1) !important;
+ }
+
+ .ldeep {
+     border: none !important;
+     background: rgba(132, 0, 184, 1) !important;
+     background: -moz-linear-gradient(left, rgba(132, 0, 184, 1) 0%, rgba(38, 179, 255, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(132, 0, 184, 1)), color-stop(100%, rgba(38, 179, 255, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(132, 0, 184, 1) 0%, rgba(38, 179, 255, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(132, 0, 184, 1) 0%, rgba(38, 179, 255, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(132, 0, 184, 1) 0%, rgba(38, 179, 255, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(132, 0, 184, 1) 0%, rgba(38, 179, 255, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8400b8', endColorstr='#26b3ff', GradientType=1) !important;
+ }
+
+ .lsea {
+     border: none !important;
+     background: rgba(0, 184, 169, 1) !important;
+     background: -moz-linear-gradient(left, rgba(0, 184, 169, 1) 0%, rgba(54, 188, 255, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0, 184, 169, 1)), color-stop(100%, rgba(54, 188, 255, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(0, 184, 169, 1) 0%, rgba(54, 188, 255, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(0, 184, 169, 1) 0%, rgba(54, 188, 255, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(0, 184, 169, 1) 0%, rgba(54, 188, 255, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(0, 184, 169, 1) 0%, rgba(54, 188, 255, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00b8a9', endColorstr='#36bcff', GradientType=1) !important;
+ }
+
+ .lblue {
+     border: none !important;
+     background: rgba(73, 155, 234, 1) !important;
+     background: -moz-linear-gradient(left, rgba(73, 155, 234, 1) 0%, rgba(32, 124, 229, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(73, 155, 234, 1)), color-stop(100%, rgba(32, 124, 229, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(73, 155, 234, 1) 0%, rgba(32, 124, 229, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(73, 155, 234, 1) 0%, rgba(32, 124, 229, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(73, 155, 234, 1) 0%, rgba(32, 124, 229, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(73, 155, 234, 1) 0%, rgba(32, 124, 229, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#499bea', endColorstr='#207ce5', GradientType=1) !important;
+ }
+
+ .lok {
+     border: none !important;
+     background: rgba(75, 232, 143, 1) !important;
+     background: -moz-linear-gradient(left, rgba(75, 232, 143, 1) 0%, rgba(46, 127, 171, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(75, 232, 143, 1)), color-stop(100%, rgba(46, 127, 171, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(75, 232, 143, 1) 0%, rgba(46, 127, 171, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(75, 232, 143, 1) 0%, rgba(46, 127, 171, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(75, 232, 143, 1) 0%, rgba(46, 127, 171, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(75, 232, 143, 1) 0%, rgba(46, 127, 171, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4be88f', endColorstr='#2e7fab', GradientType=1) !important;
+ }
+
+ .lhead {
+     border: none !important;
+     background: rgba(31, 165, 237, 1) !important;
+     background: -moz-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(4, 15, 222, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(31, 165, 237, 1)), color-stop(100%, rgba(4, 15, 222, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(4, 15, 222, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(4, 15, 222, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(4, 15, 222, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(31, 165, 237, 1) 0%, rgba(4, 15, 222, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1fa5ed', endColorstr='#040fde', GradientType=1) !important;
+ }
+
+ .llaymond {
+     border: none !important;
+     background: rgba(31, 165, 237, 1) !important;
+     background: -moz-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(110, 222, 4, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(31, 165, 237, 1)), color-stop(100%, rgba(110, 222, 4, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(110, 222, 4, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(110, 222, 4, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(31, 165, 237, 1) 0%, rgba(110, 222, 4, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(31, 165, 237, 1) 0%, rgba(110, 222, 4, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1fa5ed', endColorstr='#6ede04', GradientType=1) !important;
+ }
+
+ .lpop {
+     border: none !important;
+     background: rgba(241, 231, 103, 1) !important;
+     background: -moz-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(241, 231, 103, 1)), color-stop(100%, rgba(254, 182, 69, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1e767', endColorstr='#feb645', GradientType=1) !important;
+ }
+
+ .lpeach {
+     border: none !important;
+     background: rgba(237, 66, 100, 1) !important;
+     background: -moz-linear-gradient(left, rgba(237, 66, 100, 1) 0%, rgba(255, 237, 188, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255, 237, 188, 1)), color-stop(100%, rgba(254, 182, 69, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(237, 66, 100, 1) 0%, rgba(255, 237, 188, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(237, 66, 100, 1) 0%, rgba(255, 237, 188, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(237, 66, 100, 1) 0%, rgba(255, 237, 188, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(237, 66, 100, 1) 0%, rgba(255, 237, 188, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1e767', endColorstr='#feb645', GradientType=1) !important;
+ }
+
+ .lwh {
+     background: white !important;
+ }
+
+
+ .required label::after {
+     content: " *";
+     color: red;
+     font-size: 16px !important;
+ }
+
+ .vs-noti-lnot {
+     border: none !important;
+     background: rgba(247, 52, 140, 1) !important;
+     background: -moz-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(247, 52, 140, 1)), color-stop(100%, rgba(230, 68, 53, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(247, 52, 140, 1) 0%, rgba(230, 68, 53, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7348c', endColorstr='#e64435', GradientType=1) !important;
+ }
+
+ .vs-noti-lok {
+     border: none !important;
+     background: rgba(241, 231, 103, 1) !important;
+     background: -moz-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(241, 231, 103, 1)), color-stop(100%, rgba(254, 182, 69, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: -o-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     background: linear-gradient(to right, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1e767', endColorstr='#feb645', GradientType=1) !important;
+ }
+
+ .vs-noti-ldeep {
+     border: none !important;
+     background: rgba(0, 207, 69) !important;
+     background: -moz-linear-gradient(left, rgb(0, 207, 69) 0%, rgb(148, 240, 105) 100%) !important;
+     background: -webkit-gradient(left top, right top, color-stop(0%, rgba(148, 240, 105)), color-stop(100%, rgba(46, 127, 171, 1))) !important;
+     background: -webkit-linear-gradient(left, rgba(0, 207, 69) 0%, rgba(148, 240, 105) 100%) !important;
+     background: -o-linear-gradient(left, rgba(0, 207, 69) 0%, rgba(148, 240, 105) 100%) !important;
+     background: -ms-linear-gradient(left, rgba(0, 207, 69) 0%, rgba(148, 240, 105) 100%) !important;
+     background: linear-gradient(to right, rgba(0, 207, 69) 0%, rgba(148, 240, 105) 100%) !important;
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4be88f', endColorstr='#2e7fab', GradientType=1) !important;
+ }
+
+
+ .lxblue {
+     background-color: #0084b8 !important;
+     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='623' height='519.2' viewBox='0 0 1080 900'%3E%3Cg fill-opacity='0.26'%3E%3Cpolygon fill='%23444' points='90 150 0 300 180 300'/%3E%3Cpolygon points='90 150 180 0 0 0'/%3E%3Cpolygon fill='%23AAA' points='270 150 360 0 180 0'/%3E%3Cpolygon fill='%23DDD' points='450 150 360 300 540 300'/%3E%3Cpolygon fill='%23999' points='450 150 540 0 360 0'/%3E%3Cpolygon points='630 150 540 300 720 300'/%3E%3Cpolygon fill='%23DDD' points='630 150 720 0 540 0'/%3E%3Cpolygon fill='%23444' points='810 150 720 300 900 300'/%3E%3Cpolygon fill='%23FFF' points='810 150 900 0 720 0'/%3E%3Cpolygon fill='%23DDD' points='990 150 900 300 1080 300'/%3E%3Cpolygon fill='%23444' points='990 150 1080 0 900 0'/%3E%3Cpolygon fill='%23DDD' points='90 450 0 600 180 600'/%3E%3Cpolygon points='90 450 180 300 0 300'/%3E%3Cpolygon fill='%23666' points='270 450 180 600 360 600'/%3E%3Cpolygon fill='%23AAA' points='270 450 360 300 180 300'/%3E%3Cpolygon fill='%23DDD' points='450 450 360 600 540 600'/%3E%3Cpolygon fill='%23999' points='450 450 540 300 360 300'/%3E%3Cpolygon fill='%23999' points='630 450 540 600 720 600'/%3E%3Cpolygon fill='%23FFF' points='630 450 720 300 540 300'/%3E%3Cpolygon points='810 450 720 600 900 600'/%3E%3Cpolygon fill='%23DDD' points='810 450 900 300 720 300'/%3E%3Cpolygon fill='%23AAA' points='990 450 900 600 1080 600'/%3E%3Cpolygon fill='%23444' points='990 450 1080 300 900 300'/%3E%3Cpolygon fill='%23222' points='90 750 0 900 180 900'/%3E%3Cpolygon points='270 750 180 900 360 900'/%3E%3Cpolygon fill='%23DDD' points='270 750 360 600 180 600'/%3E%3Cpolygon points='450 750 540 600 360 600'/%3E%3Cpolygon points='630 750 540 900 720 900'/%3E%3Cpolygon fill='%23444' points='630 750 720 600 540 600'/%3E%3Cpolygon fill='%23AAA' points='810 750 720 900 900 900'/%3E%3Cpolygon fill='%23666' points='810 750 900 600 720 600'/%3E%3Cpolygon fill='%23999' points='990 750 900 900 1080 900'/%3E%3Cpolygon fill='%23999' points='180 0 90 150 270 150'/%3E%3Cpolygon fill='%23444' points='360 0 270 150 450 150'/%3E%3Cpolygon fill='%23FFF' points='540 0 450 150 630 150'/%3E%3Cpolygon points='900 0 810 150 990 150'/%3E%3Cpolygon fill='%23222' points='0 300 -90 450 90 450'/%3E%3Cpolygon fill='%23FFF' points='0 300 90 150 -90 150'/%3E%3Cpolygon fill='%23FFF' points='180 300 90 450 270 450'/%3E%3Cpolygon fill='%23666' points='180 300 270 150 90 150'/%3E%3Cpolygon fill='%23222' points='360 300 270 450 450 450'/%3E%3Cpolygon fill='%23FFF' points='360 300 450 150 270 150'/%3E%3Cpolygon fill='%23444' points='540 300 450 450 630 450'/%3E%3Cpolygon fill='%23222' points='540 300 630 150 450 150'/%3E%3Cpolygon fill='%23AAA' points='720 300 630 450 810 450'/%3E%3Cpolygon fill='%23666' points='720 300 810 150 630 150'/%3E%3Cpolygon fill='%23FFF' points='900 300 810 450 990 450'/%3E%3Cpolygon fill='%23999' points='900 300 990 150 810 150'/%3E%3Cpolygon points='0 600 -90 750 90 750'/%3E%3Cpolygon fill='%23666' points='0 600 90 450 -90 450'/%3E%3Cpolygon fill='%23AAA' points='180 600 90 750 270 750'/%3E%3Cpolygon fill='%23444' points='180 600 270 450 90 450'/%3E%3Cpolygon fill='%23444' points='360 600 270 750 450 750'/%3E%3Cpolygon fill='%23999' points='360 600 450 450 270 450'/%3E%3Cpolygon fill='%23666' points='540 600 630 450 450 450'/%3E%3Cpolygon fill='%23222' points='720 600 630 750 810 750'/%3E%3Cpolygon fill='%23FFF' points='900 600 810 750 990 750'/%3E%3Cpolygon fill='%23222' points='900 600 990 450 810 450'/%3E%3Cpolygon fill='%23DDD' points='0 900 90 750 -90 750'/%3E%3Cpolygon fill='%23444' points='180 900 270 750 90 750'/%3E%3Cpolygon fill='%23FFF' points='360 900 450 750 270 750'/%3E%3Cpolygon fill='%23AAA' points='540 900 630 750 450 750'/%3E%3Cpolygon fill='%23FFF' points='720 900 810 750 630 750'/%3E%3Cpolygon fill='%23222' points='900 900 990 750 810 750'/%3E%3Cpolygon fill='%23222' points='1080 300 990 450 1170 450'/%3E%3Cpolygon fill='%23FFF' points='1080 300 1170 150 990 150'/%3E%3Cpolygon points='1080 600 990 750 1170 750'/%3E%3Cpolygon fill='%23666' points='1080 600 1170 450 990 450'/%3E%3Cpolygon fill='%23DDD' points='1080 900 1170 750 990 750'/%3E%3C/g%3E%3C/svg%3E");
+ }
+
+ .lxcard2 {
+     background-color: #1565c0;
+     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%231565c0' width='11' height='11'/%3E%3Crect fill='%231666c1' x='10' width='11' height='11'/%3E%3Crect fill='%231868c2' y='10' width='11' height='11'/%3E%3Crect fill='%231969c3' x='20' width='11' height='11'/%3E%3Crect fill='%231a6ac4' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%231c6cc5' y='20' width='11' height='11'/%3E%3Crect fill='%231d6dc5' x='30' width='11' height='11'/%3E%3Crect fill='%231e6ec6' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%232070c7' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%232171c8' y='30' width='11' height='11'/%3E%3Crect fill='%232273c9' x='40' width='11' height='11'/%3E%3Crect fill='%232474ca' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%232575cb' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%232677cc' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%232878cd' y='40' width='11' height='11'/%3E%3Crect fill='%232979ce' x='50' width='11' height='11'/%3E%3Crect fill='%232a7bcf' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%232c7cd0' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%232d7dd0' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%232e7fd1' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%233080d2' y='50' width='11' height='11'/%3E%3Crect fill='%233181d3' x='60' width='11' height='11'/%3E%3Crect fill='%233283d4' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%233484d5' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%233586d6' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%233687d7' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%233888d8' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23398ad9' x='70' width='11' height='11'/%3E%3Crect fill='%233a8bda' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%233c8cdb' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%233d8edb' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%233f8fdc' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%234090dd' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%234192de' x='80' width='11' height='11'/%3E%3Crect fill='%234393df' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%234494e0' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%234596e1' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%234797e2' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%234899e3' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23499ae4' x='90' width='11' height='11'/%3E%3Crect fill='%234b9be5' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%234c9de6' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%234d9ee6' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%234f9fe7' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%2350a1e8' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%2351a2e9' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%2353a3ea' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%2354a5eb' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%2355a6ec' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%2357a7ed' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%2358a9ee' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%2359aaef' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%235bacf0' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%235cadf1' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%235daef1' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%235fb0f2' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%2360b1f3' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%2361b2f4' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%2363b4f5' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%2364b5f6' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+     background-attachment: fixed;
+     background-size: cover;
+ }
+
+ .lxcard {
+    background-color: #001f33;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpath fill='%23002842' d='M486 705.8c-109.3-21.8-223.4-32.2-335.3-19.4C99.5 692.1 49 703 0 719.8V800h843.8c-115.9-33.2-230.8-68.1-347.6-92.2C492.8 707.1 489.4 706.5 486 705.8z'/%3E%3Cpath fill='%23003152' d='M1600 0H0v719.8c49-16.8 99.5-27.8 150.7-33.5c111.9-12.7 226-2.4 335.3 19.4c3.4 0.7 6.8 1.4 10.2 2c116.8 24 231.7 59 347.6 92.2H1600V0z'/%3E%3Cpath fill='%23003b61' d='M478.4 581c3.2 0.8 6.4 1.7 9.5 2.5c196.2 52.5 388.7 133.5 593.5 176.6c174.2 36.6 349.5 29.2 518.6-10.2V0H0v574.9c52.3-17.6 106.5-27.7 161.1-30.9C268.4 537.4 375.7 554.2 478.4 581z'/%3E%3Cpath fill='%23004471' d='M0 0v429.4c55.6-18.4 113.5-27.3 171.4-27.7c102.8-0.8 203.2 22.7 299.3 54.5c3 1 5.9 2 8.9 3c183.6 62 365.7 146.1 562.4 192.1c186.7 43.7 376.3 34.4 557.9-12.6V0H0z'/%3E%3Cpath fill='%23004d80' d='M181.8 259.4c98.2 6 191.9 35.2 281.3 72.1c2.8 1.1 5.5 2.3 8.3 3.4c171 71.6 342.7 158.5 531.3 207.7c198.8 51.8 403.4 40.8 597.3-14.8V0H0v283.2C59 263.6 120.6 255.7 181.8 259.4z'/%3E%3Cpath fill='%230a6099' d='M1600 0H0v136.3c62.3-20.9 127.7-27.5 192.2-19.2c93.6 12.1 180.5 47.7 263.3 89.6c2.6 1.3 5.1 2.6 7.7 3.9c158.4 81.1 319.7 170.9 500.3 223.2c210.5 61 430.8 49 636.6-16.6V0z'/%3E%3Cpath fill='%231473b3' d='M454.9 86.3C600.7 177 751.6 269.3 924.1 325c208.6 67.4 431.3 60.8 637.9-5.3c12.8-4.1 25.4-8.4 38.1-12.9V0H288.1c56 21.3 108.7 50.6 159.7 82C450.2 83.4 452.5 84.9 454.9 86.3z'/%3E%3Cpath fill='%231f87cc' d='M1600 0H498c118.1 85.8 243.5 164.5 386.8 216.2c191.8 69.2 400 74.7 595 21.1c40.8-11.2 81.1-25.2 120.3-41.7V0z'/%3E%3Cpath fill='%23299ae6' d='M1397.5 154.8c47.2-10.6 93.6-25.3 138.6-43.8c21.7-8.9 43-18.8 63.9-29.5V0H643.4c62.9 41.7 129.7 78.2 202.1 107.4C1020.4 178.1 1214.2 196.1 1397.5 154.8z'/%3E%3Cpath fill='%2333adff' d='M1315.3 72.4c75.3-12.6 148.9-37.1 216.8-72.4h-723C966.8 71 1144.7 101 1315.3 72.4z'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
